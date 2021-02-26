@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+const string NAME = "Benjamin Chen";
+int AGE = 14
+,GRADE=9;
+string SCHOOL = "Los Gatos High School (USA, CA 95030)";
+
+## Repositories to note
+
+[exercises](https://github.com/benj-chen/exercises) contains the bulk of my CS projects and challenges, like USACO solutions, Advent of Code, and Codeforces, along with less active problem sources like cses.fi. Live USACO solutions are put in their separate directory within their level.
+
+
 <!--
 **benj-chen/benj-chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
