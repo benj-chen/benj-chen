@@ -7,6 +7,7 @@ string SCHOOL = "Los Gatos High School (USA, CA 95030)";
 const string SCHOOL_COUNTRY="USA"
 , SCHOOL_STATE = "CA";
 const int SCHOOL_ZIPCODE="95030";
+string USACO_LEVEL = "Silver";
 ```
 
 Languages:
