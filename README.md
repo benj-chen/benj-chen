@@ -1,8 +1,7 @@
 ### Hi there 👋
 ```c++
 const string NAME = "Benjamin Chen";
-int AGE = 14
-,GRADE=9;
+int GRADE=9;
 string SCHOOL = "Los Gatos High School (USA, CA 95030)";
 const string SCHOOL_COUNTRY="USA"
 , SCHOOL_STATE = "CA";
