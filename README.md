@@ -16,7 +16,7 @@ Python
 
 C++11/C++14/C++17
 
-(dabbling in Java)
+*(dabbling in Java)* NOT ANYMORE!!! Java sucks.
 
 ## Repositories to note
 
