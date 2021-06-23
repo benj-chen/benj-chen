@@ -1,13 +1,4 @@
-### Hi there 👋
-```c++
-const string NAME = "Benjamin Chen";
-int GRADE=9;
-string SCHOOL = "Los Gatos High School (USA, CA 95030)";
-const string SCHOOL_COUNTRY="USA"
-, SCHOOL_STATE = "CA";
-const int SCHOOL_ZIPCODE="95030";
-string USACO_LEVEL = "Silver";
-```
+### Benjamin Chen
 
 Languages:
 
