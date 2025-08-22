@@ -1,18 +1,12 @@
 ### Benjamin Chen
 
-Languages:
-
-Python
-
-C++11/C++14/C++17
-
-Java (to a lesser degree, but I could catch up)
+Languages: Python, C++, (C, Java)
 
 ## Repositories to note
 
-[exercises](https://github.com/benj-chen/exercises) contains the bulk of my CS projects and challenges, like USACO solutions, Advent of Code, and Codeforces, along with less active problem sources like cses.fi. Live USACO solutions are put in their separate directory within their level.
+[exercises](https://github.com/benj-chen/exercises) contains the bulk of my competitive programming solutions to USACO, Advent of Code, and Codeforces, mostly from high school.
 
-password-gen creates a password out of random syllables. You can specify the length too. An example: for input 10, it may output one or two passwords: two if the syllables put together goes over the length, in which it will also display a password under, or one password with the exact length:
+[password_gen](https://github.com/benj-chen/password_gen) creates a password out of random syllables so as to make it pronounceable. I had this idea of pronounceable pseudorandom password generation many years before it was included in modern password services. An example: for input 10, it may output one or two passwords: two if the syllables put together goes over the length, in which it will also display a password under, or one password with the exact length:
 (input 10)
 length 11:
 tofffacklod
@@ -20,8 +14,6 @@ tofffacklod
 or length 8:
 tofffack
 (toff-fack)
-
-I implemented this idea long before it began showing up in safe password programs like Google's or Apple's, which I'm kind of proud of.
 <!--
 **benj-chen/benj-chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
